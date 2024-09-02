@@ -1,7 +1,7 @@
 # Cross-species_correlation
 These files describe the data associated with the paper:  
 
-Yuanjing F (202*)  
+Jiahao Huang1+, Ruifeng Li1+, Mingchao Yan 2, Anan Li3,4, Xiangning Li4, Wenwen Yu5, Lei Xie1, Qingrun Zeng1, Xueyan Jia3, Shuxin Wang3, Ronghui Ju6,7, Feng Chen8, Qingming Luo4, Hui Gong3, Xiaoquan Yang3,4*, Yuanjing Feng1*, and Zheng Wang4,9* 
 'Single-neuron and whole-brain mapping of the arcuate fasciculus in macaque monkeys: insights into human homologous organization'  
 
 ## Brain Atlases and Tractography Protocols  
