@@ -10,7 +10,7 @@ The directory `Human Brain Atlas` contains brain atlases described in the paper:
 * `BN_Atlas_1mm.nii.gz`: Used to perform cortical segmentation of human brains.
 * `MNI152_T1_1mm_brain.nii.gz`: Human brain standard space.
 
-The directory `Macaque MRI data` contains the 11.7T ex-vivo dMRI data of 4 macaque brains:
+The directory `Macaque MRI data` contains the 11.7T ex-vivo dMRI data of 4 macaque brains.
 
 The directory `Macaque Arcuate Fasciculus Tractography Templates` contains the revised protocols used to generate arcuate fasciculus tracts using probabilistic tractography, including seed, target, and exclusion mask. We also provide brain atlases described in the paper:
 * `D99_Cyno162_0p5.nii`: Used to perform cortical segmentation of macaque brains.
