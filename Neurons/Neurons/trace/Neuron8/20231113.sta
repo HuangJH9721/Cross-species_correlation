@@ -1,0 +1,35 @@
+[common]
+tree_num=1
+xMin=40508
+xMax=42107
+yMin=32553
+yMax=34154
+zMin=15676
+zMax=15993
+x_Extract=80
+y_Extract=160
+z_Extract=17
+Tree_Binary_Value=20.000000
+Axon_Binary_Value=20.000000
+Tree_Diffuse_Value=4096.000000
+Tree_Trace_Value=1.000000
+Axon_Diffuse_Value=50.000000
+Axon_Trace_Value=1.000000
+Max_Bound_Num=10
+Opacity_Low=0
+Opacity_High=2000
+XScale=1
+YScale=1
+Opacity_Adjust_Low=0
+Opacity_Adjust_High=0
+Opacity_Dest_Low=0
+Opacity_Dest_High=0
+Running_Minutes=0
+[tree1]
+path=C:/Users/new/Desktop/202306/neuron2/20231113_000.swc
+curInit=36373.208055 70133.903689 14679.059691
+preBeg=2147483647
+preEnd=0
+preLineID=0
+arrow_num=1
+arrow_001=44601.31485 55079.48835 13977.66667 -0.25146 -0.96441 0.08169

@@ -1,0 +1,35 @@
+[common]
+tree_num=1
+xMin=38701
+xMax=40502
+yMin=74316
+yMax=76234
+zMin=16189
+zMax=16557
+x_Extract=160
+y_Extract=80
+z_Extract=17
+Tree_Binary_Value=20.000000
+Axon_Binary_Value=20.000000
+Tree_Diffuse_Value=4096.000000
+Tree_Trace_Value=1.000000
+Axon_Diffuse_Value=50.000000
+Axon_Trace_Value=1.000000
+Max_Bound_Num=10
+Opacity_Low=0
+Opacity_High=130
+XScale=1
+YScale=1
+Opacity_Adjust_Low=0
+Opacity_Adjust_High=0
+Opacity_Dest_Low=0
+Opacity_Dest_High=0
+Running_Minutes=0
+[tree1]
+path=C:/Users/dh/Desktop/202306/202306-2023-12-04_21_30_000.swc
+curInit=19639.907105 60360.854353 14853.685582
+preBeg=2147483647
+preEnd=0
+preLineID=0
+arrow_num=1
+arrow_001=40971.79850 33045.28432 15795.88481 -0.07785 0.21308 0.97393
