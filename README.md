@@ -21,8 +21,9 @@ The directory `Code` contains MATLAB scripts to perform the similarity analyses 
 * `calc_KL.m`: Calculates the KL divergence between two blueprints.
 
 ## Results  
-Some of the illustrative results presented in the paper's figures are included in the directories `Macaque tracts` and `Maps`:  
-* The directory `Macaque tracts` contains the VTK results of the 12 major white matter fiber tracts in the macaque brain, namely AF, ATR, CST, IFOF, ILF, MdLF, OR, SLF1, SLF2, SLF3, STR, and UF. 
+Some of the illustrative results presented in the paper's figures are included in the directories `Macaque tracts` , `Neurons` and `Maps`:  
+* The directory `Macaque tracts` contains the VTK results of the 12 major white matter fiber tracts in the macaque brain, namely AF, ATR, CST, IFOF, ILF, MdLF, OR, SLF1, SLF2, SLF3, STR, and UF.
+* Representative neuron data traced based on fMOST is stored in SWC format in the `Neurons/trace` directory. The fMOST data with 300μm isotropic resolution is stored in TIF format in the `Neurons/300_300μm` directory. Additionally, we use AMIRA software for neuron visualization, and the corresponding project files are stored in the `Neurons/all_hx` directory.
 * 26 blueprints (20 human, 4 macaque, 2 mean) for human and macaque are located in the directories `Maps/Human` and `Maps/Macaque`.  
 * `KL Divergence Matrix of AF-related Regions.mat`: Shows KL divergence between human and macaque AF-related regions.
 * `KL Divergence Matrix of Whole Brain Regions.mat`: Shows KL divergence between human and macaque whole brain regions.
